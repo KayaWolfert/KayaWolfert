@@ -1,10 +1,16 @@
 # Hi 👋
 
 
-- 🔭 I’m currently working on becoming a web developer
-- 🌱 I’m currently learning to code
-- 📫 How to reach me: kayawolfert@web.de
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
+My Name is Kaya Wolfert.
+I am 28 years old and live in Hamburg.
+I worked as a graphic designer and I am currently working on becoming a web developer.
 
-![dotenv](https://github.com/KayaWolfert/KayaWolfert/assets/158817718/14aa10bd-3cc9-4c8d-81a6-2d3af52f8b4c)
+Skills :
+-HTML
+-CSS
+-Adobe Photoshop
+-Adobe Illustrator
+-Adobe Indesign
+
+
+
