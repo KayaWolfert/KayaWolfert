@@ -1,4 +1,5 @@
-# Hi 👋
+# Hi 👋 ![blue-sea-clipart-7](https://github.com/KayaWolfert/KayaWolfert/assets/158817718/49d59fd4-88e2-4ad6-9810-3906e3b42753)
+
 
 
 My Name is Kaya Wolfert.
